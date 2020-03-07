@@ -1,3 +1,8 @@
+This was a clone repository, from: https://github.com/thtrieu/darkflow
+
+files to add bc they were too big to commit:
+YOLOv2 608x608, https://pjreddie.com/darknet/yolo/
+
 ## Intro
 
 [![Build Status](https://travis-ci.org/thtrieu/darkflow.svg?branch=master)](https://travis-ci.org/thtrieu/darkflow) [![codecov](https://codecov.io/gh/thtrieu/darkflow/branch/master/graph/badge.svg)](https://codecov.io/gh/thtrieu/darkflow)
